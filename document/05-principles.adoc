@@ -1,0 +1,140 @@
+== Australian Place Naming Principles
+=== Place naming across Australia is consistent
+All geographical features and areas, roads and localities in Australia should be named in a
+consistent way for the effective delivery of services and to enhance community cohesion.
+Jurisdictions can name other places as required by their legislation and policies.
+
+==== Language
+All place names should::
+. Be written in standard Australian English or, in an appropriate format for Aboriginal or
+Torres Strait Islander languages.
+. Use the standard Australia alphabet.
+. Have consistent spelling for names derived from the same source, e.g. Matodoro ridge
+and Matodoro trail.
+. Be easy to pronounce and spell.
+. Exceptions to the above may be appropriate for place names derived from different
+cultures Aboriginal and Torres Strait Islander languages.
+
+Place names should not::
+. Contain numbers, roman numerals, punctuation, abbreviations, acronyms or similar.
+. Start with the word ‘the’.
+. Contain cardinal indicators or qualifying terms, e.g. North, Southern, Upper, New. +
+Please refer to the #https://vocabs.gsq.digital/v/vocab/defn:gn-affix[affixes vocabulary] (replace link with https://linked.data.gov.au/def/gn-affix once registered with AGLDWG)#
+
+=== Place naming information is accurate and accessible
+
+As place names are a key descriptor in databases supporting a broad range of services,
+including emergency services, place naming information should be accurate, timely and readily
+accessible.
+
+==== Accessible
+. Place names must be assigned by a relevant naming authority in each State or
+Territory.
+. Published in a gazetteer,
+. Enduring, changes to existing names should only be considered when there is a
+compelling reason to do so.
+
+==== Unique
+. Avoiding duplication, a place name is a duplicate if it is identical with, or similar
+(in spelling or pronunciation) to another place name of the same feature type.
+. Uniqueness is particularly important for names forming a component of a street
+address, such as road and locality names. A road name, regardless of road type,
+should not duplicate an existing road name in the same locality, an adjoining
+locality, or in the same local government area. A new locality name should not
+duplicate any other locality name in Australia.
+
+==== Clearly described
+. A place name should have a clear description, that includes the extent of the
+feature it represents. The description should as much as possible align with the
+place names vocabulary (provide link).
+. Information to be captured includes the type of feature being named, eg, river,
+road or lake.
+. The description may also have associated origin information, including the
+reasoning for the name, any attached stories or background. For Aboriginal and
+Torres Strait Islander names, a recording of the pronunciation is encouraged.
+
+==== Places which cross State / Territory / jurisdictional boundaries
+. The name for any feature that crosses a State / Territory / jurisdictional boundary
+should be the same on both sides of that boundary and be decided by consensus
+with all responsible naming authorities.
+
+==== Offshore Places
+. States and Territories are responsible for the naming of island, water and
+undersea places within their legislated Coastal Waters and internal waters. The
+Australian Hydrographic Office should be advised of proposed, new and amended
+offshore place names for charting purposes.
+. Refer to the Australian Hydrographic Office for advice on the appropriate naming
+authority for offshore place names outside of Coastal Waters.
+. Limits of oceans and seas – as per ICSM Resolution R00/11/06, May 2001 –
+Changes to limits and nomenclature of the Oceans and Seas surrounding Australia
+require the approval of the ICSM before being forwarded to the International
+Hydrographic Organisation.
+
+==== Road names
+. The naming of roads should follow all principles in this document and:
+. All built public and private roads should be named,
+. A road should only have one name, other than part of a highway that is assigned
+a local name where it passes through a town or city. This includes where a road
+crosses administrative boundaries.
+. A road name should apply from one end of the road to the other i.e. the point
+where the road finishes or intersects with another road or roads.
+. A road name should include a road type, please refer to the road types
+vocabulary, e.g. Smith Street where street is the road type.
+. When a road is changed and it is no longer continuous, new names should be
+applied as appropriate to avoid confusion.
+
+=== Place names promote connection, inclusivity and the rights of others
+
+Place names promoting diversity and cultural inclusivity are encouraged. Aboriginal and Torres
+Strait Islander names in particular play an important role in reawakening language and culture.
+This may include the reinstating of Traditional place names, or the creation of new names
+derived from Aboriginal and Torres Strait Islander people's diverse languages.
+
+==== Connection
+. Place names should have a connection to the feature or area they represent.
+
+==== Aboriginal and Torres Strait Islander Place Names
+. Any place naming action should seek permission from the relevant Aboriginal
+and Torres Strait Islander peoples as the custodians of their language and culture,
+with consideration to the right to control their use.
+
+==== Dual Naming
+. Dual names are a way to assign two names, with two different cultural origins, to
+a geographical feature.
+. Dual names should not be applied to roads or localities.
+. Both names should be displayed on official maps and signage.
+. Dual names should be represented by name, space, forward slash (/), space,
+name e.g. Uluru / Ayers Rock.
+
+==== Commemorative Names
+. Place names can commemorate a person(s) or significant event and should
+have a connection to the place.
+. When commemorating a person(s) the name must be applied posthumously.
+Acts of bravery, community service and exceptional accomplishments are typical
+grounds for commemorating a person through place naming.
+. The place name should not include titles, honorifics or postnominals. For
+example: John Smith Park not John Smith AO Park, or Jane Smith Park not Dr Jane
+Smith Park.
+
+==== Unacceptable names
+. Place names must not be derogatory, discriminatory, frivolous, offensive, or in
+poor taste.
+. Contrived names should not be used, e.g combining two family names to create
+a single place name.
+. Place names should not be perceived as promoting commercial, or business
+interests.
+. Place names should not include words protected or restricted by
+Commonwealth or other legislation, unless the appropriate approvals are sought,
+e.g the term ANZAC, Royal and Defence words.
+. Place names should not infringe on any established or implied rights, e.g.
+copyright, trademarks and Indigenous Cultural and Intellectual Property (ICIP).
+
+==== Consultation
+. The impacted community or communities should be consulted for all new or
+altered place names.
+. If using Aboriginal or Torres Strait Islander language in a place name, it is
+important to engage in culturally appropriate consultation to obtain consent to use
+the name and record the meaning or story associated with the name.
+. Consent may also be required to capture supporting information, including
+historical background, spelling, information on pronunciation, origins, intellectual
+property, and cultural heritage.

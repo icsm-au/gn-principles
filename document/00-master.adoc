@@ -1,0 +1,19 @@
+= Australian Geographical Naming Creation & Maintenance Standard
+:toc: left
+:table-stripes: even
+:sectids:
+:sectanchors:
+:sectnums:
+:sectnumlevels: 7
+
+include::01-abstract.adoc[]
+
+include::02-metadata.adoc[]
+
+include::03-preamble.adoc[]
+
+include::04-introduction.adoc[]
+
+include::05-principles.adoc[]
+
+include::99-bibliography.adoc[]

@@ -1,0 +1,20 @@
+== Metadata
+
+[width=75%, frame=none, grid=none, cols="2,5"]
+|===
+|**IRI** | `+https://linked.data.gov.au/def/gn-pr+` +
+(proposed)
+|**Name** | Australian Geographical Naming Principles
+|**Description** | How geographical names in Australia should be assigned to support safety, cultural sensitivity and inclusivity
+|**Created** | 2025-01-14
+|**Modified** | 2025-01-28
+|**Issued** | 0000-00-00
+|**Creator** | https://linked.data.gov.au/org/icsm-pnwg[ICSM's Place Names Working Group (PNWG)]
+|**Publisher** | https://linked.data.gov.au/org/icsm[Intergovernmental Committee on Surveying & Mapping (ICSM)] (ICSM@ga.gov.au)
+|**Provenance** | #This standard was created in 2024 by the ICSM Place Names Working Group after the publication of ISO's publication in 2023 of ISO19160-2 Assigning and maintaining addresses for objects in the physical world and in 2024 of ICSM's publication of its Address Model. This standard is a profile of the former and instructions in the production of data conformant to the latter.#
+|**Status** | Draft
+|**Version** | 0.0.1
+|**Code Repository** | https://github.com/icsm-au/gn-principles
+|**License** | https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International (CC BY 4.0)]
+|**Copyright** | &copy; Intergovernmental Committee on Surveying & Mapping, 2025
+|===
