@@ -4,10 +4,10 @@
 |===
 |**IRI** | `+https://linked.data.gov.au/def/gn-pr+` +
 (proposed)
-|**Name** | Australian Geographical Naming Principles
-|**Description** | How geographical names in Australia should be assigned to support safety, cultural sensitivity and inclusivity
+|**Name** | ANZ Geographical Naming Principles
+|**Description** | How geographical names in Australia & New Zealand should be assigned to support safety, cultural sensitivity and inclusivity
 |**Created** | 2025-01-14
-|**Modified** | 2025-01-28
+|**Modified** | 2025-01-30
 |**Issued** | 0000-00-00
 |**Creator** | https://linked.data.gov.au/org/icsm-pnwg[ICSM's Place Names Working Group (PNWG)]
 |**Publisher** | https://linked.data.gov.au/org/icsm[Intergovernmental Committee on Surveying & Mapping (ICSM)] (ICSM@ga.gov.au)

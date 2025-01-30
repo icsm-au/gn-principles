@@ -1,4 +1,4 @@
-= Australian Geographical Naming Creation & Maintenance Standard
+= ANZ Geographical Naming Principles
 :toc: left
 :table-stripes: even
 :sectids:

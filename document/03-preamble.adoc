@@ -68,21 +68,15 @@ The following document defines the addressing model used for address records:
 
 [[gazetteer]] gazetteer:: an authorised compendium of approved geographical names for a State, Territory or Nation or Nations.
 
-[[generic-term]] generic term:: a part of a geographical name that indicates the type of geographical or topographical feature of a geographical.
-For example, ‘Park’ is a generic term used in the geographical name, ‘Karakai Park’, and ‘Bay’ is a generic term used in the geographical name ‘Botany Bay’.
-The generic term can differ from the object category. For example, a feature can be called ‘Karakai Park’ and have an object category of ‘Reserve’.
+[[generic-term]] generic term:: a part of a geographical name that indicates the type of geographical or topographical feature of a geographical. For example, ‘Park’ is a generic term used in the geographical name, ‘Karakai Park’, and ‘Bay’ is a generic term used in the geographical name ‘Botany Bay’. The generic term can differ from the object category. For example, a feature can be called ‘Karakai Park’ and have an object category of ‘Reserve’.
 
 [[geocode]] geocode:: a point feature for an address indicating a geometry. SOURCE: https://linked.data.gov.au/def/addr-cm/[Address Creation & Maintenance Standard]
 
 [[geographical-feature]] geographical feature:: A feature of (or relating to) the geography to refer to the characteristics of a certain location.
 
-[[locality]] locality:: #a named geographical area defining a community or area of interest, which may be rural or urban in character, and is usually a suburb in the latter case. SOURCE: <<ANZ4819, ANZ4819>>.# +
-commonly referred to as a ‘suburb’ in urban areas, is an administrative area over a defined geographical area, for the creation of valid addresses that can be uniquely and clearly identified. +
-#*or* use the definition from  the geographic object categories vocab:# +
-a bounded area distinguished for its community and/or landscape characteristics: in metropolitan areas it is commonly referred to as a ‘suburb’; it provides an official reference point for addressing purposes. SOURCE: https://linked.data.gov.au/def/go-categories/locality[concept of 'Locality' within the Geographical Object Categories vocabulary]
+[[locality]] locality:: #a named geographical area defining a community or area of interest, which may be rural or urban in character, and is usually a suburb in the latter case. SOURCE: <<ANZ4819, ANZ4819>>.# commonly referred to as a ‘suburb’ in urban areas, is an administrative area over a defined geographical area, for the creation of valid addresses that can be uniquely and clearly identified. #*or* use the definition from  the geographic object categories vocab:# a bounded area distinguished for its community and/or landscape characteristics: in metropolitan areas it is commonly referred to as a ‘suburb’; it provides an official reference point for addressing purposes. SOURCE: https://linked.data.gov.au/def/go-categories/locality[concept of 'Locality' within the Geographical Object Categories vocabulary]
 
-[[IRI]] IRI:: Internationalized Resource Identifiers, IRIs, are a sequence of characters from the
-   Universal Character Set. SOURCE: <<ISO10646, ISO10646>>
+[[IRI]] IRI:: Internationalized Resource Identifiers, IRIs, are a sequence of characters from the Universal Character Set. SOURCE: <<ISO10646, ISO10646>>
 
 [[official-names]] official name:: a geographical name approved by a naming authority and included in gazetteers of the respective jurisdiction(s)
 
@@ -145,6 +139,7 @@ or in prefixed form with the prefix `addr` for the namespace `+https://linked.da
 `addr:AddressableObject`
 
 The prefixed namespaces used in this document are:
+
 
 [width=100%, frame=none, grid=none, cols="1,5,4"]
 |===
