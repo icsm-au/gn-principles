@@ -5,6 +5,8 @@
 :sectids:
 :sectanchors:
 :sectnums:
+:sectnumlevels: 7
+:docinfo: shared
 
 include::01-acknowledgement-of-country.adoc[leveloffset=-1]
 
