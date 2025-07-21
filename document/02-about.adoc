@@ -1,0 +1,36 @@
+:sectnums!:
+
+== About
+Published by the Intergovernmental Committee on Surveying and Mapping (ICSM) Place Names Working Group (PNWG).
+
+https://www.icsm.gov.au/what-we-do/place-names-working-group[https://www.icsm.gov.au/what-we-do/place-names-working-group]
+
+First published: #TBC#
+
+=== Copyright and Disclaimer
+ICSM supports and encourages the dissemination and exchange of information. All material produced by ICSM
+constitutes Commonwealth copyright (on behalf of ICSM) and ICSM reserves the right to set out the terms and conditions for their use.
+
+This product is provided under a Creative Commons Attribution 4.0 International Licence. +
+https://creativecommons.org/licenses/by/4.0/[https://creativecommons.org/licenses/by/4.0/]
+
+ICSM asserts the right to be recognised as author of the original material in the following manner: +
+© Commonwealth of Australia – on behalf of the Intergovernmental Committee on Surveying & Mapping
+
+
+=== Accessibility
+
+We are committed to accessibility so that the Australian Place Naming Principles are available to everyone. This includes people with disability who may use assistive technology to read or listen to content.
+
+If you are having trouble accessing the principles or have suggestions on how we can improve the accessibility of the principles, please contact the ICSM secretariat via mailto:icsm@ga.gov.au[icsm@ga.gov.au]
+
+
+== Contact Details
+[cols="1,5", options="header"]
+|===
+|*Key contact* | *Details*
+
+|Position | Chair ICSM Place Names Working Group
+
+|Email | mailto:icsm@ga.gov.au[icsm@ga.gov.au]
+|===

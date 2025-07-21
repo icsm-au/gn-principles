@@ -1,7 +1,0 @@
-== Abstract
-
-This document specifies how place names should be assigned to support safety, cultural sensitivity and inclusivity. It intends to help naming authorities to fulfil custodial responsibilities and enable a consistent national approach to the naming of places.
-
-It is intended for use by agencies responsible for place naming, particularly State and Local Governments in Australia. It should also be adhered to by developers for road naming proposals and other entities assigning names to places in an official capacity, #such as buildings and public infrastructure#.
-
-#This standard should be used in collaboration with national guidelines held by the Intergovernmental Committee on Surveying and Mapping (ICSM).#

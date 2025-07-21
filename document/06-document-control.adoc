@@ -1,0 +1,26 @@
+:sectnums!:
+
+== Document control
+
+=== Document approval
+
+[cols="7,1", options="header"]
+|===
+|*Name and position* | *Date*
+
+| | |
+|===
+
+=== Document version control
+
+[cols="1,1,1,5", options="header"]
+|===
+|*Version* | *Status* | *Date* | *Comments*
+
+| 1.0 | Draft | 31/02/2025 | Circulated with ICSM PNWG for feedback and then open for public feedback.
+| 2.0 | Final | |
+| 3.0 | Approved | |
+|===
+
+=== Document review
+This document will be reviewed every five years.

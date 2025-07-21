@@ -1,19 +1,21 @@
-= ANZ Geographical Naming Principles
+= Australian Place Naming Principles
 :toc: left
-:table-stripes: even
+:toclevels: 0
+//:table-stripes: even
 :sectids:
 :sectanchors:
 :sectnums:
-:sectnumlevels: 7
 
-include::01-abstract.adoc[]
+include::01-acknowledgement-of-country.adoc[leveloffset=-1]
 
-include::02-metadata.adoc[]
+include::02-about.adoc[leveloffset=-1]
 
-include::03-preamble.adoc[]
+include::03-foreword.adoc[leveloffset=-1]
 
-include::04-introduction.adoc[]
+include::04-glossary.adoc[leveloffset=-1]
 
-include::05-principles.adoc[]
+= Principles
 
-include::99-bibliography.adoc[]
+include::05-principles.adoc[leveloffset=-1]
+
+include::06-document-control.adoc[leveloffset=-1]

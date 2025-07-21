@@ -1,0 +1,21 @@
+:sectnums!:
+
+== Glossary
+
+[cols="2,10"]
+|===
+| Term | Definition
+
+| Feature | A place with identifiable characteristics (e.g. geographical and administrative) that distinguish it from its surroundings.
+| Generic term | A part of a place name that indicates the type of geographical or topographical feature of a place. +
+For example, ‘Park’ is a generic term used in the place name, ‘Karakai Park’, and ‘Bay’ is a generic
+term used in the place name ‘Botany Bay’.
+| Indigenous Cultural and Intellectual Property (ICIP) | Indigenous cultural and intellectual property is a broad term which is used to refer to the rights Aboriginal and Torres Strait Islander people have to their heritage and culture. ICIP includes knowledge, songlines, language, dance, symbols and art as well as medicines, language, bush foods, sacred sites and ecological knowledgefootnote:[https://www.arts.gov.au/what-we-do/indigenous-arts-and-languages/protecting-indigenous-cultural-and-intellectual-property-rights].
+| Locality | A locality, commonly referred to as a ‘suburb’ in urban areas, is an administrative area over a defined geographical area, for the creation of valid addresses that can be uniquely and clearly identified.
+| Official name | The State, Territory or other naming authority may approve a name to be the official name for a place. These may be referred to as assigned, approved, gazetted or registered.
+| Offshore feature | Any feature located away from the coast.
+| Place name | An official or unofficial name recognised by a naming authority.
+| Road | Any public or private land-based thoroughfare or course navigable by vehicle or foot.
+| Unofficial name | The State, Territory or other naming authority may include alternative names within a gazetteer or related databases at their discretion. This may include recorded names, spelling variants, historic names or unapproved names. Collectively, these are referred to as unofficial names.
+| Vocabulary | #A hierarchy or list of defined terms which enables standardaised classification of information.#
+|===

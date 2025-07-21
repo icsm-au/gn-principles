@@ -1,0 +1,18 @@
+:sectnums!:
+
+== Foreword
+[quote,Annaleise Walster,Chair: Intergovernmental Committee on Surveying and Mapping]
+____
+The Intergovernmental Committee on Surveying and Mapping (ICSM) Place Names Working Group (PNWG) brings together place name authorities from both Australia and New Zealand, working collaboratively to establish modern, inclusive, and consistent practices that reflect the evolving needs and values of our diverse communities. As there is no official national naming authority within Australia the PNWG has developed the Australian Place Naming Principles to provide a consistent and unified approach to place naming across the country.
+
+These principles replace the previous Principles for the Consistent Use of Place Names and are designed to address contemporary community expectations, with a particular focus on safety, cultural sensitivity and inclusion. They recognise the critical role place naming plays in supporting a range of functions, including economic development, research, conservation, service delivery, and in reflecting the cultural identity and values of Australia.
+
+Aligned with the resolutions set out by the United Nations Group of Experts on Geographical Names (UNGEGN), the principles adhere to international best practices while supporting naming authorities in updating and aligning local place naming policies. This ensures greater effectiveness and consistency in place naming policy and process and better represents the diverse communities across the nation.
+
+The PNWG advocates for place naming that is inclusive and reflects of the diversity within our communities. In particular, the group acknowledges the significance of place names in promoting the wider use and appreciation of Aboriginal and Torres Strait Islander languages and cultures. This represents a positive contribution towards Australia’s reconciliation journey.
+____
+////
+*Annaleise Walster* +
+*Chair* +
+Intergovernmental Committee on Surveying and Mapping
+////
