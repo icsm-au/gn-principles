@@ -4,20 +4,13 @@
 //:table-stripes: even
 :sectids:
 :sectanchors:
-//:sectnums:
+//:sectnums!:
 //:sectnumlevels: 7
 :docinfo: shared
 
 include::01-acknowledgement-of-country.adoc[]
-
 include::02-about.adoc[]
-
 include::03-foreword.adoc[]
-
 include::04-glossary.adoc[]
-
-//= Principles
-
 include::05-principles.adoc[]
-
 include::06-document-control.adoc[]

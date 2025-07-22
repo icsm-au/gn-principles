@@ -1,3 +1,5 @@
+:sectnums!:
+
 == Principles
 
 Place names play a vital role in Australian society, serving as key geographical identifiers that support communication, navigation, emergency services, and cultural heritage. To ensure clarity, consistency, and inclusivity, Australia follows a structured approach to place naming. These principles ensure that place names are applied consistently across the country, support cultural recognition and reflect community expectations.
@@ -56,7 +58,7 @@ A place name record should include:
 * The name for any feature that crosses a State / Territory / jurisdictional boundary should be the same on both sides of that boundary and be decided by consensus with all relevant naming authorities.
 
 ==== 2.5. Offshore places
-* States and Territories are responsible for the naming of any feature within its legislated coastal watersfootnote:[https://www.legislation.gov.au/C2004A02276/latest/text[_Coastal Waters (State Powers) Act 1980_ (Cth)]] e.g. islands.
+* States and Territories are responsible for the naming of any feature within its legislated coastal watersfootnote:[https://www.legislation.gov.au/C2004A02276/latest/text[Coastal Waters (State Powers) Act 1980 (Cth)]] e.g. islands.
 * The Australian Hydrographic Officefootnote:[https://www.hydro.gov.au] is responsible for the naming of undersea features beyond legislated coastal waters.
 
 ==== 2.6. Road names

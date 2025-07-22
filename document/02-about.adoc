@@ -11,15 +11,14 @@ First published: #TBC#
 ICSM supports and encourages the dissemination and exchange of information. All material produced by ICSM
 constitutes Commonwealth copyright (on behalf of ICSM) and ICSM reserves the right to set out the terms and conditions for their use.
 
-This product is provided under a Creative Commons Attribution 4.0 International Licence. +
-https://creativecommons.org/licenses/by/4.0/[https://creativecommons.org/licenses/by/4.0/]
+This product is provided under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International] licence.
+pass:[<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1.1em;max-height:1.1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1.1em;max-height:1.1em;margin-left: .2em;">]
 
 ICSM asserts the right to be recognised as author of the original material in the following manner: +
 © Commonwealth of Australia – on behalf of the Intergovernmental Committee on Surveying & Mapping
 
 
 === Accessibility
-
 We are committed to accessibility so that the Australian Place Naming Principles are available to everyone. This includes people with disability who may use assistive technology to read or listen to content.
 
 If you are having trouble accessing the principles or have suggestions on how we can improve the accessibility of the principles, please contact the ICSM secretariat via mailto:icsm@ga.gov.au[icsm@ga.gov.au]

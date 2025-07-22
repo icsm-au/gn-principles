@@ -4,7 +4,7 @@
 
 === Document approval
 
-[cols="7,1", options="header"]
+[cols="6,1", options="header"]
 |===
 |*Name and position* | *Date*
 
