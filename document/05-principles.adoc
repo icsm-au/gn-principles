@@ -1,4 +1,4 @@
-:sectnums!:
+== Principles
 
 Place names play a vital role in Australian society, serving as key geographical identifiers that support communication, navigation, emergency services, and cultural heritage. To ensure clarity, consistency, and inclusivity, Australia follows a structured approach to place naming. These principles ensure that place names are applied consistently across the country, support cultural recognition and reflect community expectations.
 
@@ -11,11 +11,10 @@ This document does not address the determination of state or territory names and
 The principles outlined in this document are not intended to be applied retrospectively.
 
 
-:sectnums:
-=== Place naming across Australia is consistent and enduring
+=== 1. Place naming across Australia is consistent and enduring
 All features and places in Australia are named in a consistent way to support the effective delivery of services, enhance community cohesion, and recognise the cultural heritage of that place.
 
-==== Language
+==== 1.1. Language
 *Place names should:*
 
 * Be written in standard Australian English, or Aboriginal or Torres Strait Islander languages as determined by  the appropriate Aboriginal and Torres Strait Islander community.
@@ -28,24 +27,24 @@ All features and places in Australia are named in a consistent way to support th
 * Contain cardinal indicators or qualifying terms, as listed in the _‘Geographical Name Affix’_ vocabulary, available here: https://linked.data.gov.au/def/gn-affix[https://linked.data.gov.au/def/gn-affix]
 
 
-==== Name changes
+==== 1.2. Name changes
 Place names should not be changed unless there is a compelling reason to do so.
 
-=== Place naming information is accurate and accessible
+=== 2. Place naming information is accurate and accessible
 
 Place names are a key descriptor in databases that support a broad range of key government and industry services. To ensure reliability and usability, place names must be accurate and readily accessible. Uniqueness is especially critical for names that form part of a street address, such as road or locality names, to avoid confusion - including for the timely provision of emergency services.
 
-==== Accessible
+==== 2.1. Accessible
 * Place names must be approved by a relevant naming authority to be an official name.
 * Place names should be published in the Australian gazetteer, available here:
 https://placenames.fsdf.org.au[https://placenames.fsdf.org.au]
 
-==== Unique
+==== 2.2. Unique
 * Place names of the same feature type should be unique and avoid duplicating existing names (in spelling or pronunciation) where it may cause confusion.
 * A new road name, regardless of road type, should not be duplicated in the same or an adjoining locality, or in the same local government area.
 * A new locality name should be unique in Australia.
 
-==== Clearly described
+==== 2.3. Clearly described
 A place name record should include:
 
 * a clear description of the feature where the place name will be applied, including the extent of the feature.
@@ -53,14 +52,14 @@ A place name record should include:
 * the place name’s origin information, such as the reasoning for the name and any associated stories or background.
 * phonetic spelling and a recording of the pronunciation of the name, if available.
 
-==== Places which cross State / Territory / jurisdictional boundaries
+==== 2.4. Places which cross State / Territory / jurisdictional boundaries
 * The name for any feature that crosses a State / Territory / jurisdictional boundary should be the same on both sides of that boundary and be decided by consensus with all relevant naming authorities.
 
-==== Offshore places
+==== 2.5. Offshore places
 * States and Territories are responsible for the naming of any feature within its legislated coastal watersfootnote:[https://www.legislation.gov.au/C2004A02276/latest/text[_Coastal Waters (State Powers) Act 1980_ (Cth)]] e.g. islands.
 * The Australian Hydrographic Officefootnote:[https://www.hydro.gov.au] is responsible for the naming of undersea features beyond legislated coastal waters.
 
-==== Road names
+==== 2.6. Road names
 Concise and unique road names are essential for creating accurate address information and ensuring efficient service delivery, particularly for emergency response agencies where timely and precise location data is essential.
 
 * A road name should be clear, unambiguous and easily read on signage.
@@ -74,16 +73,16 @@ Concise and unique road names are essential for creating accurate address inform
 
 For information specific to Addressing, please refer to the Australian Addressing Creation & Maintenance Standard, available here: https://linked.data.gov.au/def/addr-cm[https://linked.data.gov.au/def/addr-cm]
 
-=== Place naming promotes connection and inclusivity
+=== 3. Place naming promotes connection and inclusivity
 Australia is a multicultural nation and place names promoting diversity and cultural inclusivity are encouraged. Aboriginal and Torres Strait Islander names in particular play an important role in reawakening language and culture. This may include the reinstating of traditional place names, or supporting the creation of new names derived from Aboriginal and Torres Strait Islander languages.
 
-==== Connection
+==== 3.1. Connection
 * Place names should have a connection to the feature or area they represent.
 
-==== Aboriginal and Torres Strait Islander place names
+==== 3.2. Aboriginal and Torres Strait Islander place names
 * Any proposed place name using Aboriginal or Torres Strait Islander language should seek permission from the relevant Aboriginal or Torres Strait Islander peoples as the custodians of their language and culture.
 
-==== Dual naming
+==== 3.3. Dual naming
 * Dual names are a way to assign two names to a geographical feature, including one Aboriginal and Torres Strait Islander name.
 * Dual names are not appropriate for roads or localities.
 * Dual names should be represented by name, space, forward slash (/), space, name. Both names should be displayed on official maps and signage.
@@ -93,7 +92,7 @@ Australia is a multicultural nation and place names promoting diversity and cult
 Wambuul / Macquarie River
 ====
 
-==== Commemorative names
+==== 3.4. Commemorative names
 * Place names can commemorate a person(s), significant event or a place’s historical use.
 * Commemorative names should have a significant connection to the place they are applied.
 * When commemorating a person:
@@ -104,7 +103,7 @@ Wambuul / Macquarie River
 - For places that form part of a street address (localities and roads), only a single name should be used.
 * Consideration should be given to commemorative names that acknowledge under-represented groups in our diverse communities.
 
-==== Unacceptable names
+==== 3.5. Unacceptable names
 Place names must not:
 
 * Cause harm by being derogatory, racist, discriminatory or offensive.
@@ -112,6 +111,6 @@ Place names must not:
 * Infringe on any established or implied rights, e.g. copyright, trademarks and Indigenous Cultural and Intellectual Property (ICIP).
 * Be perceived as promoting commercial or business interests.
 
-==== Consultation
+==== 3.6. Consultation
 * Where a community will be impacted by a new or altered place name appropriate consultation should take place.
 * If using Aboriginal or Torres Strait Islander language in a place name, culturally appropriate engagement must be undertaken to obtain consent to use the name and record the meaning or story associated with the name.
