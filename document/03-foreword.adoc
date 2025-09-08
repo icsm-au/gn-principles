@@ -1,4 +1,4 @@
-:sectnums!:
+//:sectnums!:
 
 == Foreword
 [quote,Annaleise Walster,"Chair, Intergovernmental Committee on Surveying and Mapping"]
@@ -9,10 +9,10 @@ These principles replace the previous Principles for the Consistent Use of Place
 
 Aligned with the resolutions set out by the United Nations Group of Experts on Geographical Names (UNGEGN), the principles adhere to international best practices while supporting naming authorities in updating and aligning local place naming policies. This ensures greater effectiveness and consistency in place naming policy and process and better represents the diverse communities across the nation.
 
-The PNWG advocates for place naming that is inclusive and reflects of the diversity within our communities. In particular, the group acknowledges the significance of place names in promoting the wider use and appreciation of Aboriginal and Torres Strait Islander languages and cultures. This represents a positive contribution towards Australia’s reconciliation journey.
+The PNWG advocates for place naming that is inclusive and reflects the diversity within our communities. In particular, the group acknowledges the significance of place names in promoting the wider use and appreciation of Aboriginal and Torres Strait Islander languages and cultures. This represents a positive contribution towards Australia’s reconciliation journey.
 ____
 ////
-*Annaleise Walster* +
+*Annaliese Walster* +
 *Chair* +
 Intergovernmental Committee on Surveying and Mapping
 ////

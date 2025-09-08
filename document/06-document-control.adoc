@@ -1,6 +1,10 @@
-:sectnums!:
+//:sectnums!:
 
 == Document control
+
+This online copy of the Draft Australian Place Naming Principles is an updated, text-only version of the https://www.icsm.gov.au/sites/default/files/2025-04/Draft%20Australian%20Place%20Naming%20Principles%20%281%29_1.pdf[PDF version].
+
+This copy complements the PDF by enhancing accessibility with direct links to specific sections and enabling version control via Git.
 
 === Document approval
 
@@ -8,7 +12,8 @@
 |===
 |*Name and position* | *Date*
 
-| | |
+| Rafe Benli, Chair, ICSM Place Names Working Group | #TBA#
+| Annaliese Walster, Chair, ICSM | #TBA#
 |===
 
 === Document version control
@@ -18,8 +23,8 @@
 |*Version* | *Status* | *Date* | *Comments*
 
 | 1.0 | Draft | 31/02/2025 | Circulated with ICSM PNWG for feedback and then open for public feedback.
-| 2.0 | Final | |
-| 3.0 | Approved | |
+| 2.0 | Final | 21/08/2025 | Final version circulated to PNWG for approval.
+| 3.0 | Approved | #TBA# |
 |===
 
 === Document review
