@@ -1,25 +1,26 @@
-= Geographical Naming Principles
+= Australian Place Naming Principles - Readme for Code Repository
 
-This document defines and described the principles by which Geographical Names should be created in Australia and New Zealand under the authority of the https://www.icsm.gov.au/[Intergovernmental Committee on Surveying & Mapping].
+This document defines and described the principles by which Geographical Names should be given in Australia under the authority of the https://www.icsm.gov.au/[Intergovernmental Committee on Surveying & Mapping].
 
-_This proposed standard will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved as a standard, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
+_These draft principles will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
 
-This repository contains the source code for the document in https://asciidoc.org/[ASCIIDOC] files which is rendered online at:
+This repository contains the source code for the document in https://asciidoc.org/[ASCIIDOC] files which is temporarily rendered online at: https://icsm-au.github.io/gn-principles/doc.html
 
-*  https://linked.data.gov.au/def/gn-pr
+The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] which resolves to the principles.
+// via a redirect from https://linked.data.gov.au/def/gn-pr
 
 
 == Contributions
 
-We encourage all contributions to this Standard!
+We encourage contributions to this repository and the principles!
 
 Please contribute by:
 
-. Raising concerns/ideas within ICSM's Geographical Names Working Group
+. Raising concerns/ideas within ICSM's Place Names Working Group
 . Creating Issue tickets within this repository's Issue Tracker
 .. at https://github.com/icsm-au/gn-principles/issues
 . Creating Pull Requests to absorb changes against the document source files
-.. the source files are in the `document/` folder of this repository
+.. the source files are in the link:document[`document/`] folder of this repository
 .. Pull Requests should be lodged at https://github.com/icsm-au/gn-principles/pulls
 
 _If creating Pull Requests is a new/unknown thing for you, please communicate with the contacts below for help._
@@ -27,27 +28,29 @@ _If creating Pull Requests is a new/unknown thing for you, please communicate wi
 
 == Rights and License
 
-The information in this repository is available for reuse under the https://creativecommons.org/licenses/by/4.0/[Creative Commons 4.0 license], see the LICENSE file for the deed.
+The information in this repository is available for reuse under the https://creativecommons.org/licenses/by/4.0/[Creative Commons 4.0 license], see the link:LICENSE[LICENSE] file for the deed.
 
 &copy; Intergovernmental Committee on Surveying and Mapping, 2025
 
 
 == Contacts
 
-For more information about these vocabularies, contact:
+For more information about this repository, contact:
 
 *Spatial Information* +
-GeoResources Division +
-Department of Natural Resources and Mines, Manufacturing, and Regional and Rural Development +
+Georesources Division +
+Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
 Queensland Government +
 QldPlaceNames@resources.qld.gov.au
 
+////
 For further information, please visit:
 
 https://www.resources.qld.gov.au/data-mapping +
 https://qldspatial.information.qld.gov.au/
-
+////
 For technical model implementation questions, contact:
+
 
 *Nicholas Car* +
 https://kurrawong.ai[KurrawongAI] +
@@ -55,7 +58,7 @@ nick@kurrawong.ai +
 _Contractor to Spatial Information Qld._
 
 
-== Document generation
+== Document Generation
 
 This document is developed using the https://asciidoc.org/[ASCIIDOC] document system used for many https://www.ogc.org/[OGC] and https://www.iso.org/home.html[ISO] standards. It essentially builds HTML or PDF documents from a series of text files (ending in `.adoc`), images and so, with certain styling conventions.
 
