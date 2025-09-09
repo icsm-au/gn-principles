@@ -17,11 +17,9 @@ We encourage contributions to this repository and the principles!
 Please contribute by:
 
 . Raising concerns/ideas within ICSM's Place Names Working Group
-. Creating Issue tickets within this repository's Issue Tracker
-.. at https://github.com/icsm-au/gn-principles/issues
-. Creating Pull Requests to absorb changes against the document source files
-.. the source files are in the link:document[`document/`] folder of this repository
-.. Pull Requests should be lodged at https://github.com/icsm-au/gn-principles/pulls
+. Creating Issue tickets within this repository's https://github.com/icsm-au/gn-principles/issues[Issue Tracker]
+. Creating requests to absorb changes against the document source files via a https://github.com/icsm-au/gn-principles/pulls[Pull Request]. +
+The source files are in the link:document[`document/`] folder of this repository.
 
 _If creating Pull Requests is a new/unknown thing for you, please communicate with the contacts below for help._
 
@@ -41,12 +39,12 @@ For more information about this repository, contact:
 Georesources Division +
 Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
 Queensland Government +
-QldPlaceNames@resources.qld.gov.au
+QldPlaceNames@nrmmrrd.qld.gov.au
 
 ////
 For further information, please visit:
 
-https://www.resources.qld.gov.au/data-mapping +
+https://www.nrmmrrd.qld.gov.au/data-mapping +
 https://qldspatial.information.qld.gov.au/
 ////
 For technical model implementation questions, contact:
