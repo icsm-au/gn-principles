@@ -6,7 +6,7 @@ _These draft principles will be dependent on the https://linked.data.gov.au/def/
 
 This repository contains the source code for the document in https://asciidoc.org/[ASCIIDOC] files which is temporarily rendered online at: https://icsm-au.github.io/gn-principles/doc.html
 
-The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] to resolve this page.
+The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] which resolves to the principles.
 // via a redirect from https://linked.data.gov.au/def/gn-pr
 
 
@@ -20,7 +20,7 @@ Please contribute by:
 . Creating Issue tickets within this repository's Issue Tracker
 .. at https://github.com/icsm-au/gn-principles/issues
 . Creating Pull Requests to absorb changes against the document source files
-.. the source files are in the `document/` folder of this repository
+.. the source files are in the link:document[`document/`] folder of this repository
 .. Pull Requests should be lodged at https://github.com/icsm-au/gn-principles/pulls
 
 _If creating Pull Requests is a new/unknown thing for you, please communicate with the contacts below for help._
