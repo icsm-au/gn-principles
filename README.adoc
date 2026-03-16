@@ -1,44 +1,45 @@
-= Australian Place Naming Principles - Readme for Code Repository
+= Readme
 
-This document defines and described the principles by which Geographical Names should be given in Australia under the authority of the https://www.icsm.gov.au/[Intergovernmental Committee on Surveying & Mapping].
+== Australian Place Naming Principles Code Repository
 
-_These draft principles will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
+This repository contains a web-based copy of Australian Place Naming Principles document, that defines and describes the principles by which Geographical Names should be given in Australia, published under the authority of the https://www.icsm.gov.au/[Intergovernmental Committee on Surveying & Mapping].
 
-This repository contains the source code for the document in https://asciidoc.org/[ASCIIDOC] files which is temporarily rendered online at: https://icsm-au.github.io/gn-principles/doc.html
+// _These draft principles will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
 
-The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] which resolves to the principles.
+This repository contains the source code in https://asciidoc.org/[ASCIIDOC] files and replicates the content of the official document in a web-friendly format. An online rendering is available at: https://icsm-au.github.io/gn-principles/doc.html
+
+The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] and have it resolve to the principles.
 // via a redirect from https://linked.data.gov.au/def/gn-pr
 
 
-== Contributions
+=== Contributions
 
 We encourage contributions to this repository and the principles!
 
 Please contribute by:
 
-. Raising concerns/ideas within ICSM's Place Names Working Group
+. Raising concerns/ideas with ICSM's Place Names Working Group via icsm@ga.gov.au
 . Creating Issue tickets within this repository's https://github.com/icsm-au/gn-principles/issues[Issue Tracker]
-. Creating requests to absorb changes against the document source files via a https://github.com/icsm-au/gn-principles/pulls[Pull Request]. +
-The source files are in the link:document[`document/`] folder of this repository.
+// . Creating requests to absorb changes against the document source files via a https://github.com/icsm-au/gn-principles/pulls[Pull Request]. +
+// The source files are in the link:document[`document/`] folder of this repository.
 
-_If creating Pull Requests is a new/unknown thing for you, please communicate with the contacts below for help._
+// _If creating Pull Requests is a new/unknown thing for you, please communicate with the contacts below for help._
 
 
-== Rights and License
+=== Rights and License
 
 The information in this repository is available for reuse under the https://creativecommons.org/licenses/by/4.0/[Creative Commons 4.0 license], see the link:LICENSE[LICENSE] file for the deed.
 
-&copy; Intergovernmental Committee on Surveying and Mapping, 2025
+&copy; Intergovernmental Committee on Surveying and Mapping, 2026
 
 
-== Contacts
+=== Contacts
 
 For more information about this repository, contact:
 
-*Spatial Information* +
-Georesources Division +
-Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
-Queensland Government +
+*Place Names Team* +
+Spatial Information Branch, Georesources Division +
+Queensland Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
 QldPlaceNames@nrmmrrd.qld.gov.au
 
 ////
@@ -47,8 +48,7 @@ For further information, please visit:
 https://www.nrmmrrd.qld.gov.au/data-mapping +
 https://qldspatial.information.qld.gov.au/
 ////
-For technical model implementation questions, contact:
-
+For technical implementation and data model questions, contact:
 
 *Nicholas Car* +
 https://kurrawong.ai[KurrawongAI] +
@@ -56,10 +56,10 @@ nick@kurrawong.ai +
 _Contractor to Spatial Information Qld._
 
 
-== Document Generation
+=== Document Generation
 
-This document is developed using the https://asciidoc.org/[ASCIIDOC] document system used for many https://www.ogc.org/[OGC] and https://www.iso.org/home.html[ISO] standards. It essentially builds HTML or PDF documents from a series of text files (ending in `.adoc`), images and so, with certain styling conventions.
+This document is developed using the https://asciidoc.org/[ASCIIDOC] document system used for many https://www.ogc.org/[OGC] and https://www.iso.org/home.html[ISO] standards. It essentially builds HTML or PDF documents from a series of text files (ending in `.adoc`), images, with certain styling conventions.
 
 This repository automatically builds this document from the source files in the `document/` folder using the https://asciidoctor.org/[ASCIIDoctor] tool that it integrated into a GitHub Action, meaning the document is rebuild with every error-free update to the source files here.
 
-The auto-built document is online at https://icsm-au.github.io/addr-principles/doc.html.
+The auto-built document is online at https://icsm-au.github.io/gn-principles/doc.html.

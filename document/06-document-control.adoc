@@ -2,30 +2,30 @@
 
 == Document control
 
-This online copy of the Draft Australian Place Naming Principles is an updated, text-only version of the https://www.icsm.gov.au/sites/default/files/2025-04/Draft%20Australian%20Place%20Naming%20Principles%20%281%29_1.pdf[PDF version].
+This online copy of the Australian Place Naming Principles is an updated, text-only version of the official version.
+//https://www.icsm.gov.au/sites/default/files/2025-04/Draft%20Australian%20Place%20Naming%20Principles%20%281%29_1.pdf[PDF version].
 
-This copy complements the PDF by enhancing accessibility with direct links to specific sections and enabling version control via Git.
+This copy complements the PDF by enhancing accessibility with direct links to specific sections and enabling Git features such as version control.
 
 === Document approval
 
-[cols="6,1", options="header"]
+[cols="8,^1", options="header"]
 |===
 |*Name and position* | *Date*
 
-| Rafe Benli, Chair, ICSM Place Names Working Group | #TBA#
-| Annaliese Walster, Chair, ICSM | #TBA#
+| Rafe Benli, Chair, ICSM Place Names Working Group | 08/09/2025
+| Annaliese Walster, Chair, ICSM | 22/10/2025
 |===
 
 === Document version control
 
-[cols="1,1,1,5", options="header"]
+[cols="^.^2,^.^2,^.^2,11", options="header"]
 |===
 |*Version* | *Status* | *Date* | *Comments*
 
-| 1.0 | Draft | 31/02/2025 | Circulated with ICSM PNWG for feedback and then open for public feedback.
-| 2.0 | Final | 21/08/2025 | Final version circulated to PNWG for approval.
-| 3.0 | Approved | #TBA# |
+| 1.0 | Final | 08/09/2025 | Final document distributed to PNWG and endorsed by PNWG Chair.
+| 1.1 | Approved | 22/10/2025 | Final document endorsed by ICSM and approved by ICSM Chair pending minor edits.
 |===
 
 === Document review
-This document will be reviewed every five years.
+This document will be reviewed every 5 years.

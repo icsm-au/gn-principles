@@ -1,11 +1,9 @@
 //:sectnums!:
 
-== About
+== Australian Place Naming Principles
 Published by the Intergovernmental Committee on Surveying and Mapping (ICSM) Place Names Working Group (PNWG)
 
 https://www.icsm.gov.au/what-we-do/place-names-working-group[https://www.icsm.gov.au/what-we-do/place-names-working-group]
-
-First published: #TBC#
 
 === Copyright and Disclaimer
 ICSM supports and encourages the dissemination and exchange of information. All material produced by ICSM

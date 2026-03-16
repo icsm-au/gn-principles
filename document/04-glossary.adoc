@@ -17,5 +17,5 @@ term used in the place name ‘Botany Bay’.
 | Place name | An official or unofficial name recognised by a naming authority.
 | Road | Any public or private land-based thoroughfare or course navigable by vehicle or foot.
 | Unofficial name | The State, Territory or other naming authority may include alternative names within a gazetteer or related databases at their discretion. This may include recorded names, spelling variants, historic names or unapproved names. Collectively, these are referred to as unofficial names.
-| Vocabulary | A hierarchy or list of defined terms which enables standardised classification of information.
+| Vocabulary | A list of defined terms which enables standardised classification of information.
 |===

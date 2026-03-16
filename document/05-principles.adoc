@@ -89,7 +89,7 @@ Australia is a multicultural nation and place names promoting diversity and cult
 * Dual names are not appropriate for roads or localities.
 * Dual names should be represented by name, space, forward slash (/), space, name. Both names should be displayed on official maps and signage.
 
-.Dual name
+.Dual name representation
 ====
 Wambuul / Macquarie River
 ====
