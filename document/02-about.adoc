@@ -13,7 +13,7 @@ This product is provided under a https://creativecommons.org/licenses/by/4.0/[Cr
 pass:[<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1.1em;max-height:1.1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1.1em;max-height:1.1em;margin-left: .2em;">]
 
 ICSM asserts the right to be recognised as author of the original material in the following manner: +
-© Commonwealth of Australia – on behalf of the Intergovernmental Committee on Surveying & Mapping.
+&copy; Commonwealth of Australia – on behalf of the Intergovernmental Committee on Surveying & Mapping.
 
 
 === Accessibility

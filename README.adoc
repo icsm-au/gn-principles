@@ -6,7 +6,7 @@ This repository contains a web-based copy of Australian Place Naming Principles 
 
 // _These draft principles will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
 
-This repository contains the source code in https://asciidoc.org/[ASCIIDOC] files and replicates the content of the official document in a web-friendly format. An online rendering is available at: https://icsm-au.github.io/gn-principles/doc.html
+This repository contains the source code in https://asciidoc.org/[ASCIIDOC] files and replicates the content of the https://raw.githubusercontent.com/icsm-au/gn-principles/main/official-document/ICSM%20Australian%20Place%20Naming%20Principles.pdf[official document] in a web-friendly format. An online rendering is available at: https://icsm-au.github.io/gn-principles/doc.html
 
 The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] and have it resolve to the principles.
 // via a redirect from https://linked.data.gov.au/def/gn-pr
@@ -28,7 +28,7 @@ Please contribute by:
 
 === Rights and License
 
-The information in this repository is available for reuse under the https://creativecommons.org/licenses/by/4.0/[Creative Commons 4.0 license], see the link:LICENSE[LICENSE] file for the deed.
+The information in this repository is available for reuse under the https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International license], see the link:LICENSE[LICENSE] file for the deed.
 
 &copy; Intergovernmental Committee on Surveying and Mapping, 2026
 
@@ -37,7 +37,7 @@ The information in this repository is available for reuse under the https://crea
 
 For more information about this repository, contact:
 
-*Place Names Team* +
+*Queensland Place Names team* +
 Spatial Information Branch, Georesources Division +
 Queensland Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
 QldPlaceNames@nrmmrrd.qld.gov.au
