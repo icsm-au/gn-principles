@@ -3,7 +3,6 @@
 == Document control
 
 This online copy of the Australian Place Naming Principles is an updated, text-only version of the https://raw.githubusercontent.com/icsm-au/gn-principles/main/official-document/ICSM%20Australian%20Place%20Naming%20Principles.pdf[official version].
-//old link: https://www.icsm.gov.au/sites/default/files/2025-04/Draft%20Australian%20Place%20Naming%20Principles%20%281%29_1.pdf[PDF version].
 
 This copy complements the official PDF by enhancing accessibility with direct links to specific sections and enabling Git features such as releases and version control.
 

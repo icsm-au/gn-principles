@@ -4,12 +4,7 @@
 
 This repository contains a web-based copy of Australian Place Naming Principles document, that defines and describes the principles by which Geographical Names should be given in Australia, published under the authority of the https://www.icsm.gov.au/[Intergovernmental Committee on Surveying & Mapping].
 
-// _These draft principles will be dependent on the https://linked.data.gov.au/def/gn[Geographical Names Model] when it's approved, much like the Addressing Creation & Maintenance Standard is dependent on the https://linked.data.gov.au/def/addr[Address Model]._
-
 This repository contains the source code in https://asciidoc.org/[ASCIIDOC] files and replicates the content of the https://raw.githubusercontent.com/icsm-au/gn-principles/main/official-document/ICSM%20Australian%20Place%20Naming%20Principles.pdf[official document] in a web-friendly format. An online rendering is available at: https://icsm-au.github.io/gn-principles/doc.html
-
-The future intent is to register a PID with the https://www.linked.data.gov.au/[AGLDWG] and have it resolve to the principles.
-// via a redirect from https://linked.data.gov.au/def/gn-pr
 
 
 === Contributions
@@ -39,21 +34,15 @@ For more information about this repository, contact:
 
 *Queensland Place Names team* +
 Spatial Information Branch, Georesources Division +
-Queensland Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development +
+Queensland Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development (NRMMRRD) +
 QldPlaceNames@nrmmrrd.qld.gov.au
 
-////
-For further information, please visit:
-
-https://www.nrmmrrd.qld.gov.au/data-mapping +
-https://qldspatial.information.qld.gov.au/
-////
-For technical implementation and data model questions, contact:
+For technical implementation and data model questions please contact:
 
 *Nicholas Car* +
 https://kurrawong.ai[KurrawongAI] +
 nick@kurrawong.ai +
-_Contractor to Spatial Information Qld._
+_Contractor to NRMMRRD's Spatial Information group._
 
 
 === Document Generation
